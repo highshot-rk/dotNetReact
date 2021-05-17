@@ -1,0 +1,54 @@
+5/6/2021 5:23:17 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:23:17 AM: Intento de Usuario Invalido:  Usuario: admin, Contrasena: admin
+5/6/2021 5:23:19 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:23:19 AM: Intento de Usuario Invalido:  Usuario: admin, Contrasena: admin
+5/6/2021 5:31:23 AM: Intento de Usuario Invalido:  Usuario: , Contrasena: 
+5/6/2021 5:31:25 AM: Intento de Usuario Invalido:  Usuario: , Contrasena: 
+5/6/2021 5:31:32 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:31:32 AM: Intento de Usuario Invalido:  Usuario: asdf, Contrasena: asdf
+5/6/2021 5:31:46 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:31:46 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/6/2021 5:32:10 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:32:10 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/6/2021 5:39:13 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:39:13 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/6/2021 5:40:53 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:40:53 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/6/2021 5:41:50 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:41:50 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/6/2021 5:41:57 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:41:57 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/6/2021 5:42:51 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:42:51 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/6/2021 5:47:38 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:47:38 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/6/2021 5:47:50 AM: Ocurrio un ERROR al iniciar sesión de usuario - Cannot open server 'serverdesarrolloacademica' requested by the login. Client with IP address '188.43.136.32' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+5/6/2021 5:47:50 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/7/2021 2:03:16 PM: Intento de Usuario Invalido:  Usuario: , Contrasena: 
+5/7/2021 2:03:29 PM: Intento de Usuario Invalido:  Usuario: 123, Contrasena: 123
+5/7/2021 2:03:48 PM: Intento de Usuario Invalido:  Usuario: 123, Contrasena: 123
+5/7/2021 2:04:08 PM: Intento de Usuario Invalido:  Usuario: 123, Contrasena: 123
+5/7/2021 2:04:31 PM: Intento de Usuario Invalido:  Usuario: 123, Contrasena: 123
+5/7/2021 2:05:01 PM: Intento de Usuario Invalido:  Usuario: 123, Contrasena: 123
+5/7/2021 2:05:57 PM: Intento de Usuario Invalido:  Usuario: 123, Contrasena: 123
+5/7/2021 2:07:05 PM: Intento de Usuario Invalido:  Usuario: 123, Contrasena: 123
+5/7/2021 2:08:38 PM: Intento de Usuario Invalido:  Usuario: 123, Contrasena: 123
+5/7/2021 2:32:13 PM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1234
+5/8/2021 12:55:44 AM: Intento de Usuario Invalido:  Usuario: , Contrasena: 1111
+5/8/2021 9:38:35 PM: Intento de Usuario Invalido:  Usuario: , Contrasena: 
+5/14/2021 1:12:50 AM: Ocurrio un ERROR al iniciar sesión de usuario - Login failed for user 'appuser'.
+5/14/2021 1:12:50 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/14/2021 1:13:01 AM: Ocurrio un ERROR al iniciar sesión de usuario - Login failed for user 'appuser'.
+5/14/2021 1:13:01 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/14/2021 1:13:56 AM: Ocurrio un ERROR al iniciar sesión de usuario - Login failed for user 'appuser'.
+5/14/2021 1:13:56 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/14/2021 1:14:29 AM: Ocurrio un ERROR al iniciar sesión de usuario - Login failed for user 'appuser'.
+5/14/2021 1:15:13 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/14/2021 1:15:56 AM: Ocurrio un ERROR al iniciar sesión de usuario - Login failed for user 'appuser'.
+5/14/2021 1:15:56 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/14/2021 1:26:05 AM: Ocurrio un ERROR al iniciar sesión de usuario - Login failed for user 'appuser'.
+5/14/2021 1:26:05 AM: Intento de Usuario Invalido:  Usuario: admin75, Contrasena: 1111
+5/14/2021 1:26:21 AM: Ocurrio un ERROR al iniciar sesión de usuario - Login failed for user 'appuser'.
+5/14/2021 1:26:21 AM: Intento de Usuario Invalido:  Usuario: 42504, Contrasena: 1111
+5/14/2021 1:26:34 AM: Ocurrio un ERROR al iniciar sesión de usuario - Login failed for user 'appuser'.
+5/14/2021 1:26:34 AM: Intento de Usuario Invalido:  Usuario: 42504, Contrasena: 1111
